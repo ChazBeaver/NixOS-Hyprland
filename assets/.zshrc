@@ -8,6 +8,30 @@ alias ls='eza -a --icons'
 alias ll='eza -al --icons'
 alias lt='eza -a --tree --level=1 --icons'
 
+# Chaz's imports from ~/.bashrc
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias 000='chmod -R 000'
+alias 644='chmod -R 644'
+alias 666='chmod -R 666'
+alias 755='chmod -R 755'
+alias 777='chmod -R 777'
+alias bd='cd "$OLDPWD"'
+alias cd..='cd ..'
+alias cl='clear'
+alias dot='cd /home/chaz/.dotfiles'
+alias hypr='cd /home/chaz/Documents/Chaz_Hyprland' # manually added; fixthis; TODO
+alias h='history | grep '
+alias home='cd ~'
+alias matrix='cmatrix -b -s -u 6'
+alias mx='chmod a+x'
+alias rmd='/bin/rm  --recursive --force --verbose '
+alias v='nvim .'
+alias vim='nvim'
+alias vimdiff='nvim -d'
+
 # Starting down here, are set in user.nix
 
 #ZSH_THEME="xiong-chiamiov-plus"
