@@ -1,5 +1,5 @@
 {
-  description = "KooL's NixOS-Hyprland"; 
+  description = "Chaz's NixOS-Hyprland"; 
   	
   inputs = {
   	nixpkgs.url = "nixpkgs/nixos-unstable";

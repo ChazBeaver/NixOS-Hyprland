@@ -32,6 +32,26 @@ alias v='nvim .'
 alias vim='nvim'
 alias vimdiff='nvim -d'
 
+# FZF Directory with Tree Preview and jump to it # manually added; fixthis; TODO
+fd() {
+    local dir
+    dir=$(find ${1:-.} -type d 2> /dev/null | fzf --preview 'tree -C {} | head -100' +m) && cd "$dir"
+}
+# FZF file with preview; jump to edit
+ef() {
+    local file
+    file=$(find ${1:-.} -type f 2> /dev/null | fzf --preview 'bat --style=numbers --color=always {} || cat {}' +m) && [ -n "$file" ] && nvim "$file"
+}
+# LS preview
+# fd() {
+#     local dir
+#     dir=$(find ${1:-.} -type d 2> /dev/null | fzf --preview 'ls -la --color=always {}' +m) && cd "$dir"
+# }
+
+alias dim="kitty @ set-colors -a ~/.config/kitty/themes/afterglow.conf"
+alias dark="kitty @ set-colors -a ~/.config/kitty/themes/material.conf"
+alias light="kitty @ set-colors -a ~/.config/kitty/themes/PaulMillr.conf"
+
 # Starting down here, are set in user.nix
 
 #ZSH_THEME="xiong-chiamiov-plus"

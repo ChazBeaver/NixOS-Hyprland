@@ -9,9 +9,9 @@
 
 <div align="center">
 
-## 💌 ** JaKooLit's ❄️ NixOS-Hyprland Install Script ** 💌
+## 💌 ** Chaz's ❄NixOS-Hyprland Install Script ** 💌
 
-![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/NixOS-Hyprland?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/NixOS-Hyprland?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/NixOS-Hyprland?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/9JEgZsfhex"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%9JEgZsfhex"> </a>
+![GitHub Repo stars](https://img.shields.io/github/stars/ChazBeaver/NixOS-Hyprland?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/ChazBeaver/NixOS-Hyprland?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/ChazBeaver/NixOS-Hyprland?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/9JEgZsfhex"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%9JEgZsfhex"> </a>
 
 
 <br/>
@@ -24,23 +24,23 @@
 </div>
 <div align="center">
 <br>
-  <a href="https://github.com/JaKooLit/Hyprland-Dots"><kbd> <br> Hyprland-Dots repo <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/ChazBeaver/Hyprland-Dots"><kbd> <br> Hyprland-Dots repo <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/FAQ"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/ChazBeaver/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/ChazBeaver/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/ChazBeaver/Hyprland-Dots/wiki/FAQ"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/9JEgZsfhex"><kbd> <br> Discord <br> </kbd></a>
 </div><br>
 
 <h3 align="center">
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+	<img src="https://github.com/ChazBeaver/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 	KooL Hyprland-Dotfiles Showcase 
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+	<img src="https://github.com/ChazBeaver/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h3>
 
 <div align="center">
 
-https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-9913-76039e84a2cd
+https://github.com/ChazBeaver/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-9913-76039e84a2cd
 
 </div>
 
@@ -52,13 +52,13 @@ https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-991
 > hyprland to be installed will be from development branch or known as -git version
 
 #### 🪧🪧🪧 ANNOUNCEMENT 🪧🪧🪧
-- This Repo does not contain Hyprland Dots or configs! Nor Configs are NOT written in Nix. Hyprland Dotfiles will be downloaded from [`KooL's Hyprland-Dots`](https://github.com/JaKooLit/Hyprland-Dots) . 
+- This Repo does not contain Hyprland Dots or configs! Nor Configs are NOT written in Nix. Hyprland Dotfiles will be downloaded from [`KooL's Hyprland-Dots`](https://github.com/ChazBeaver/Hyprland-Dots) . 
 
-- Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Changelogs) 
+- Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/ChazBeaver/Hyprland-Dots/wiki/Changelogs) 
 
-- GTK Themes and Icons will be pulled from [`LINK`](https://github.com/JaKooLit/GTK-themes-icons) including Bibata Cursor Modern Ice
+- GTK Themes and Icons will be pulled from [`LINK`](https://github.com/ChazBeaver/GTK-themes-icons) including Bibata Cursor Modern Ice
 
-- the wallpaper offered to be downloaded towards the end are from this [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
+- the wallpaper offered to be downloaded towards the end are from this [`REPO`](https://github.com/ChazBeaver/Wallpaper-Bank)
 
 > [!IMPORTANT]
 > take note of the requirements
@@ -83,7 +83,7 @@ https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-991
 
 #### 🙋 Having Issues / Questions?
 - Please feel free to raise an issue on the repo, please label a feature request with the title beginning with [feature request], thank you!
-- If you have a question about KooL's Hyprland dots, see [`KooL's Dots WIKI`](https://github.com/JaKooLit/Hyprland-Dots/wiki) . In that wiki are some tips, keybinds, some collective FAQ etc.
+- If you have a question about KooL's Hyprland dots, see [`KooL's Dots WIKI`](https://github.com/ChazBeaver/Hyprland-Dots/wiki) . In that wiki are some tips, keybinds, some collective FAQ etc.
 
 
 ### ⬇️ Installations
@@ -96,7 +96,7 @@ https://github.com/JaKooLit/Hyprland-Dots/assets/85185940/50d53755-0f11-45d6-991
 - Simply copy this and run it:
 ```
 nix-shell -p git vim curl pciutils
-sh <(curl -L https://github.com/JaKooLit/NixOS-Hyprland/raw/main/auto-install.sh)
+sh <(curl -L https://github.com/ChazBeaver/NixOS-Hyprland/raw/main/auto-install.sh)
 ```
 > [!NOTE]
 > pciutils is necessary to detect if you have nvidia card. 
@@ -113,7 +113,7 @@ nix-shell -p git vim curl pciutils
 ```
 - Clone this repo & CD into it:
 ```
-git clone --depth 1 https://github.com/JaKooLit/NixOS-Hyprland.git ~/NixOS-Hyprland
+git clone --depth 1 https://github.com/ChazBeaver/NixOS-Hyprland.git ~/NixOS-Hyprland
 cd ~/NixOS-Hyprland
 ```
 - *You should stay in this folder for the rest of the install*
@@ -149,7 +149,7 @@ nix-shell -p git curl pciutils
 
 - Clone this repo into your home directory & CD into it:
 ```
-git clone --depth 1 https://github.com/JaKooLit/NixOS-Hyprland.git ~/NixOS-Hyprland
+git clone --depth 1 https://github.com/ChazBeaver/NixOS-Hyprland.git ~/NixOS-Hyprland
 cd ~/NixOS-Hyprland
 ```
 
@@ -171,10 +171,10 @@ Hope you enjoy! 🎉
 
 
 #### 🪤 My NixOS configs 
-- on this repo [`KooL's NIXOS Configs`](https://github.com/JaKooLit/NixOS-configs)
+- on this repo [`KooL's NIXOS Configs`](https://github.com/ChazBeaver/NixOS-configs)
 
 #### 🫥 Improving performance for Older Nvidia Cards using driver 470
-- [`SEE HERE`](https://github.com/JaKooLit/Hyprland-Dots/discussions/123#discussion-6035205)
+- [`SEE HERE`](https://github.com/ChazBeaver/Hyprland-Dots/discussions/123#discussion-6035205)
 
 ### 🔙 Reverting back to your default configs
 - if you use flakes, you can just simply locate your default or previous configs. CD into it and execute `sudo nixos-rebuild switch --flake .#<your-previous-flake-hostname>`
@@ -188,7 +188,7 @@ Hope you enjoy! 🎉
 
 #### ⏩ Contributing
 - As stated above, these script does not contain actual config files. These are only the installer of packages
-- If you want to contribute and/or test the Hyprland-Dotfiles (development branch), [`Hyprland-Dots-Development`](https://github.com/JaKooLit/Hyprland-Dots/tree/development) 
+- If you want to contribute and/or test the Hyprland-Dotfiles (development branch), [`Hyprland-Dots-Development`](https://github.com/ChazBeaver/Hyprland-Dots/tree/development) 
 
 
 #### 👍👍👍 Thanks and Credits!
@@ -198,17 +198,17 @@ Hope you enjoy! 🎉
 ## 💖 Support
 - a Star on my Github repos would be nice 🌟
 
-- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit) 
+<!-- - Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit)  -->
 
 - You can also buy me Coffee Through ko-fi.com or Coffee.com 🤩
 
-<a href='https://ko-fi.com/jakoolit' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href='https://ko-fi.com/ChazBeaver' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JaKooLit)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ChazBeaver)
 
-####  📹 Youtube videos (Click to view and watch the playlist) 📹
-[![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/JaKooLit/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
+<!-- ####  📹 Youtube videos (Click to view and watch the playlist) 📹 -->
+<!-- [![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/ChazBeaver/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t) -->
 
 
 ## 🥰🥰 💖💖 👍👍👍
-[![Stargazers over time](https://starchart.cc/JaKooLit/NixOS-Hyprland.svg?variant=adaptive)](https://starchart.cc/JaKooLit/NixOS-Hyprland)
+[![Stargazers over time](https://starchart.cc/ChazBeaver/NixOS-Hyprland.svg?variant=adaptive)](https://starchart.cc/ChazBeaver/NixOS-Hyprland)

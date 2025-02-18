@@ -119,7 +119,8 @@
   networking.timeServers = options.networking.timeServers.default ++ [ "pool.ntp.org" ];
 
   # Set your time zone.
-  time.timeZone = "America/New_York";
+  # TRY TO MAKE THIS INHERITABLE
+  time.timeZone = "${timezone}";
 
   # Select internationalisation properties.
   i18n.defaultLocale = "en_US.UTF-8";
